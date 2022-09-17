@@ -1,4 +1,4 @@
-# student-management-system
+# Student Management System
 This was the mini project. Student Management System is developed using python. Talking about the project, it contains only an admin side from where the admin can maintain student records easily.
 
 **About System:**
